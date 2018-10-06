@@ -1,0 +1,11 @@
+#goal comes here
+
+string goal_frame
+---
+#result definition
+
+string result_val
+---
+#feedback definition
+
+string feedback_val
